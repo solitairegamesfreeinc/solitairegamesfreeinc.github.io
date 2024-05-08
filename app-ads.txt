@@ -1,5 +1,6 @@
 152media.info, 152M324, RESELLER
 152media.info,152M312,RESELLER
+152media.info,152m324,reseller
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 App-stock.com,256917,RESELLER
 Blis.com, 33, RESELLER, 61453ae19a4b73f4
@@ -100,8 +101,10 @@ admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
 admixer.net,a80e4ca1-f52f-4aa5-98e1-010c8d08251b,RESELLER 
 admixplay.com, 2012, RESELLER
 adnuro.com,9303102757,RESELLER
+adsbea.com,17,reseller
 adswizz.com,consumable,RESELLER
 adsyield.com, 1233, DIRECT
+adsyield.com,1233,reseller
 adtiming.com, a-126, RESELLER, bf66753b8f380142
 adtonos.com,PUB3603521960,RESELLER
 advanttechnology.com,7718770105,RESELLER
@@ -398,6 +401,8 @@ google.com,pub-4568609371004228,RESELLER,f08c47fec0942fa0
 google.com,pub-4568609371004228,RESELLER,f08c47fec0942fa0 
 google.com,pub-5717092533913515,RESELLER,f08c47fec0942fa0
 google.com,pub-6346866704322274,RESELLER,f08c47fec0942fa0
+google.com,pub-6401694476936937,reseller
+google.com,pub-6401694476936937,reseller,f08c47fec0942fa0
 gothamads.com, 399, RESELLER, d9c86e5dec870222
 gothamads.com,1236,RESELLER,d9c86e5dec870222
 groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
@@ -556,6 +561,7 @@ loopme.com,9724,RESELLER,6c8d5f95897a5a3b
 lunamedia.io, 32405915-c6d7-44d3-9326-17ce1fb85943, RESELLER, 524ecb396915caaf
 lunamedia.io, 464b5a3a-b155-4f05-8953-9f6cd192d932, RESELLER, 524ecb396915caaf
 lunamedia.io,2fb901cd79f4453b90b68bee79da71b5,RESELLER,524ecb396915caaf
+lunamedia.io,2fdb16a1-5025-4c41-9b17-e01e47ebc8b4,reseller,524ecb396915caaf
 lunamedia.io,95ed51edc1cb499baaf3476fcb6fa463,RESELLER,524ecb396915caaf
 lunamedia.io,vaiwtx4prucygk6uuevk13ywmjolbi5yun,RESELLER,524ecb396915caaf
 mars.media, 1010380, RESELLER, 8624339f102fb076
@@ -611,6 +617,7 @@ onetag.com, 77cc0899358027b, RESELLER
 onetag.com, 77cc0899358027b-OB, RESELLER
 onetag.com, 7d9af0b85b5070e, DIRECT
 onetag.com,59aa7be4921bac8,RESELLER 
+onetag.com,7d9af0b85b5070e,reseller
 onetag.com,82e44d118b79600,RESELLER
 openx.com, 537125459, RESELLER, 6a698e2ec38604c6
 openx.com, 537152826, RESELLER, 6a698e2ec38604c6
@@ -940,6 +947,7 @@ rubiconproject.com,25748,RESELLER,0bfd66d529a55807
 rubiconproject.com,25966,RESELLER,0bfd66d529a55807
 rubiconproject.com,26064,RESELLER,0bfd66d529a55807
 rubiconproject.com,26102,RESELLER,0bfd66d529a55807
+rubiconproject.com,26184,reseller,0bfd66d529a55807
 rubiconproject.com,26250,RESELLER,0bfd66d529a55807
 rubiconproject.com,26324,RESELLER,0bfd66d529a55807
 se7en.es,212459,RESELLER,064bc410192443d8
@@ -1103,10 +1111,12 @@ themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
 themediagrid.com,7MYRZ3,RESELLER,35d5010d7789b49d
 themediagrid.com,FH3TKJ,RESELLER,35d5010d7789b49d 
 themediagrid.com,IOY14K,RESELLER,35d5010d7789b49d
+themediagrid.com,r28i9j,reseller,35d5010d7789b49d
 thunder-monetize.com, 3962740416, RESELLER
 thunder-monetize.com,3962740416,RESELLER
 thunder-monetize.com,4977054380,RESELLER
 thunder-monetize.com,9550919845,RESELLER
+toponad.com,165535463cfb70,reseller,1d49fe424a1a456d
 toponad.com,1658d4a00557ce,RESELLER,1d49fe424a1a456d
 tpmn.io, 415, RESELLER
 tpmn.io,532,RESELLER
@@ -1145,6 +1155,7 @@ undertone.com, 3635, RESELLER
 undertone.com, 4102, RESELLER
 undertone.com, 4108, RESELLER
 unity.com, 1194047, DIRECT, 96cabb5fbdde37a7
+unity.com,1048191,direct,96cabb5fbdde37a7
 ushareit.com, LC7dc692567a127a57,RESELLER
 velismedia.com, 1137, RESELLER
 velismedia.com, 725, RESELLER
@@ -1196,6 +1207,7 @@ vidoomy.com,2412786,RESELLER
 vidoomy.com,4930225,RESELLER
 vidoomy.com,60653,RESELLER
 vidoomy.com,7646534,RESELLER
+vidoomy.com,7646534,reseller
 visiblemeasures.com,1001,RESELLER
 visiblemeasures.com,1020,RESELLER
 visiblemeasures.com,1078,RESELLER

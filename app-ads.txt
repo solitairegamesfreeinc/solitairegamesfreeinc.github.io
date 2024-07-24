@@ -102,6 +102,7 @@ admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
 admixer.net,a80e4ca1-f52f-4aa5-98e1-010c8d08251b,RESELLER 
 admixplay.com, 2012, RESELLER
 adnuro.com,9303102757,RESELLER
+adops.gr,0e7622d3aae6b2e1d78bcce196d636e4,RESELLER
 adsbea.com,17,reseller
 adswizz.com,consumable,RESELLER
 adsyield.com, 1233, DIRECT
@@ -264,6 +265,7 @@ betweendigital.com,43092,RESELLER
 betweendigital.com,43837,RESELLER 
 betweendigital.com,43843,RESELLER
 betweendigital.com,44077,RESELLER 
+betweendigital.com,44851,RESELLER
 betweendigital.com,44917,RESELLER
 bidease.com, exchange-20, RESELLER
 bidease.com,bidease_seller_28,RESELLER
@@ -319,6 +321,7 @@ contextweb.com,562546,RESELLER,89ff185a4c4e857c
 contextweb.com,562569,RESELLER,89ff185a4c4e857c
 contextweb.com,562762,RESELLER,89ff185a4c4e857c
 contextweb.com,562791,RESELLER,89ff185a4c4e857c
+contextweb.com,562827,RESELLER,89ff185a4c4e857c
 contextweb.com,563285,RESELLER,89ff185a4c4e857c
 conversantmedia.com, 100097, RESELLER, 03113cd04947736d
 conversantmedia.com, 100224, RESELLER, 03113cd04947736d
@@ -438,12 +441,14 @@ improvedigital.com, 2162, RESELLER
 improvedigital.com, 2163, RESELLER
 improvedigital.com, 2177, RESELLER
 improvedigital.com, 2178, RESELLER
+improvedigital.com,1225,RESELLER
 improvedigital.com,1532,RESELLER 
 improvedigital.com,1795,RESELLER
 improvedigital.com,2002,RESELLER
 improvedigital.com,2110,RESELLER
 improvedigital.com,2276,RESELLER
 improvedigital.com,2297,RESELLER
+improvedigital.com,2451,RESELLER
 indexexchange.com, 182257, RESELLER
 indexexchange.com, 185578, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 185774, RESELLER, 50b1c356f2c5c8fc
@@ -569,6 +574,7 @@ loopme.com,11322,RESELLER,6c8d5f95897a5a3b
 loopme.com,11322,RESELLER,6c8d5f95897a5a3b 
 loopme.com,11414,RESELLER,6c8d5f95897a5a3b
 loopme.com,11414,RESELLER,6c8d5f95897a5a3b 
+loopme.com,11426,RESELLER,6c8d5f95897a5a3b
 loopme.com,11605,RESELLER,6c8d5f95897a5a3b
 loopme.com,2896,RESELLER,6c8d5f95897a5a3b
 loopme.com,5679,RESELLER,6c8d5f95897a5a3b 
@@ -579,6 +585,7 @@ lunamedia.io,2fb901cd79f4453b90b68bee79da71b5,RESELLER,524ecb396915caaf
 lunamedia.io,2fdb16a1-5025-4c41-9b17-e01e47ebc8b4,reseller,524ecb396915caaf
 lunamedia.io,95ed51edc1cb499baaf3476fcb6fa463,RESELLER,524ecb396915caaf
 lunamedia.io,vaiwtx4prucygk6uuevk13ywmjolbi5yun,RESELLER,524ecb396915caaf
+markappmedia.site,C-1019,RESELLER
 mars.media, 1010380, RESELLER, 8624339f102fb076
 mars.media, 1010421, RESELLER, 8624339f102fb076
 mars.media, 1010422, RESELLER, 8624339f102fb076
@@ -619,6 +626,7 @@ ninthdecimal.com, 6364d3f0f495b6ab9dcf8d3b5c6e0b01, RESELLER, 3aff2148687b274b
 nobid.io, 22388449880, RESELLER
 nobid.io, 22501800598, RESELLER
 nobid.io, 22575233870, RESELLER
+odeeo.io,134207762,RESELLER,36cfd73091d5c3fc
 olaex.biz, 100039, RESELLER
 olaex.biz,100008,RESELLER
 olaex.biz,100039,Reseller 
@@ -689,6 +697,7 @@ opera.com,pub6739463379776,RESELLER,55a0c5fd61378de3
 opera.com,pub7025947716544,RESELLER,55a0c5fd61378de3
 opera.com,pub8613009987200,RESELLER,55a0c5fd61378de3
 opera.com,pub9598692093632,RESELLER,55a0c5fd61378de3
+orangeclickmedia.com,C-1019,RESELLER
 outbrain.com, 00b7ea45470d8fb01743e66d0481f459ac, DIRECT
 outbrain.com, 00da04a8a0fc0b2ff14e5f3b6780f5a9d8, RESELLER
 outbrain.com,0023749a2264ea0429a71b54ac9ca0de9a,RESELLER
@@ -983,11 +992,14 @@ sharethrough.com,DQQogebZ,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,K6tB2uM1,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,LC86m64o,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,NIRSC9f2,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,UbYLkrys,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,XeKuhSkz,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,ZqrIAHsE,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,pLL9cLon,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,r9B1MG7E,RESELLER,d53b998a7bd4ecd2
 showheroes.com,6018,RESELLER
 silvermob.com, 464, RESELLER
+sipo-inc.com,658147,RESELLER
 smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100040398, RESELLER, 07bcf65f187117b4
 smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
@@ -1045,6 +1057,8 @@ smartadserver.com,4210,RESELLER,060d053dcf45cbf3
 smartadserver.com,4343,RESELLER,060d053dcf45cbf3
 smartadserver.com,4383,RESELLER
 smartadserver.com,4457,RESELLER,060d053dcf45cbf3
+smartadserver.com,4467,RESELLER,060d053dcf45cbf3
+smartadserver.com,4568,RESELLER,060d053dcf45cbf3
 smartadserver.com,4625,RESELLER,060d053dcf45cbf3
 smartadserver.com,4728,RESELLER,060d053dcf45cbf3
 smartadserver.com,4762,RESELLER,060d053dcf45cbf3

@@ -77,8 +77,8 @@ adform.com,2795,RESELLER
 adform.com,2967,RESELLER
 adform.com,2967,RESELLER,9f5210a2f0999e32
 adform.com,3016,RESELLER
-adform.com,3215,RESELLER
 adform.com,3016,RESELLER,9f5210a2f0999e32
+adform.com,3215,RESELLER
 adiiix.com,par-AA7B236BA32DD484C838E249362437B8,RESELLER
 adingo.jp,31054,RESELLER
 admanmedia.com, 26, RESELLER
@@ -104,6 +104,7 @@ admixer.net, 4ca083cd-412f-49fe-b832-5b66ee490d9a, RESELLER
 admixer.net, 8e380da6-31ba-488c-939c-290c48d577e4, RESELLER
 admixer.net, a80e4ca1-f52f-4aa5-98e1-010c8d08251b, RESELLER
 admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
+admixer.net,26f19e7a-1b46-4e44-a635-e92c6a27b88b,RESELLER
 admixer.net,a80e4ca1-f52f-4aa5-98e1-010c8d08251b,RESELLER 
 admixplay.com, 2012, RESELLER
 adnuro.com,9303102757,RESELLER
@@ -289,6 +290,7 @@ bidmachine.io, 35, RESELLER
 bidmachine.io, 55, RESELLER
 bidmachine.io, 59, RESELLER
 bidmachine.io, 67, RESELLER
+bidmachine.io,124,RESELLER
 bidmachine.io,138,RESELLER 
 bidmachine.io,35,RESELLER
 bidmachine.io,36,RESELLER
@@ -318,6 +320,7 @@ connekt.ai,5585919044,RESELLER
 connekt.ai,8897271402,RESELLER
 consumable.com,2001409,RESELLER,aefcd3d2f45b5070
 consumable.com,2001583,RESELLER,aefcd3d2f45b5070
+consumable.com,2001585,RESELLER,aefcd3d2f45b5070
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562146, RESELLER, 89ff185a4c4e857c
@@ -574,6 +577,7 @@ lijit.com, 452742-eb, RESELLER, fafdf38b16bf6b2b
 lijit.com, 516975, RESELLER, fafdf38b16bf6b2b
 lijit.com,273050,RESELLER,fafdf38b16bf6b2b
 lijit.com,278625-eb,RESELLER,fafdf38b16bf6b2b 
+lijit.com,380632,RESELLER,fafdf38b16bf6b2b
 lijit.com,443291,RESELLER,fafdf38b16bf6b2b
 lijit.com,481366,RESELLER,fafdf38b16bf6b2b
 lijit.com,483304,RESELLER,fafdf38b16bf6b2b
@@ -631,6 +635,7 @@ media.net, 8CUD06Z68, RESELLER
 media.net, 8CULY277R, RESELLER
 media.net, 8CUO7P3WK, RESELLER
 media.net,8CU43768M,RESELLER
+media.net,8CU7H33B7,RESELLER
 media.net,8CU8538L0,RESELLER
 media.net,8CU9B72O6,RESELLER
 media.net,8CUN37DCC,RESELLER
@@ -687,7 +692,6 @@ onetag.com,8bd233947b607f0,RESELLER
 onetag.com,8dac5efb6c952da,RESELLER
 onetag.com,8dd1b050e3a7e60,RESELLER
 onetag.com,8dd8de7f341d57e,RESELLER
-onetag.com,8dac5efb6c952da,RESELLER
 openx.com, 537125459, RESELLER, 6a698e2ec38604c6
 openx.com, 537152826, RESELLER, 6a698e2ec38604c6
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
@@ -1123,6 +1127,7 @@ smartadserver.com,4190,RESELLER,060d053dcf45cbf3
 smartadserver.com,4210,RESELLER,060d053dcf45cbf3
 smartadserver.com,4343,RESELLER,060d053dcf45cbf3
 smartadserver.com,4383,RESELLER
+smartadserver.com,4456,RESELLER,060d053dcf45cbf3
 smartadserver.com,4457,RESELLER,060d053dcf45cbf3
 smartadserver.com,4467,RESELLER,060d053dcf45cbf3
 smartadserver.com,4568,RESELLER,060d053dcf45cbf3
@@ -1141,6 +1146,7 @@ smartclip.net, 9394, RESELLER
 smartclip.net,12358,RESELLER
 smartclip.net,12422,RESELLER
 smartclip.net,14275,RESELLER
+smartclip.net,27985,RESELLER
 smartstream.tv, 417, RESELLER
 smartstream.tv,667,RESELLER
 smartstream.tv,679,RESELLER
@@ -1160,7 +1166,9 @@ sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
 sonobi.com, ac6f1a9ded, RESELLER, d1a215d9eb5aee9e
 sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
 sonobi.com,5b003395a5,RESELLER,d1a215d9eb5aee9e
+sonobi.com,861be9c200,RESELLER,d1a215d9eb5aee9e
 sonobi.com,cc3858f35e,RESELLER,d1a215d9eb5aee9e 
+sonobi.com,d2b13d1c36,RESELLER,d1a215d9eb5aee9e
 sonobi.com,eaec54c63f,RESELLER,d1a215d9eb5aee9e 
 sonobi.com,f23858a5df,RESELLER,d1a215d9eb5aee9e
 sonobi.com,f297f2d29b,RESELLER,d1a215d9eb5aee9e 
@@ -1219,6 +1227,7 @@ thebrave.io,212430,RESELLER,c25b2154543746ac
 themediagrid.com, 81MGSH, DIRECT, 35d5010d7789b49d
 themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
 themediagrid.com,7MYRZ3,RESELLER,35d5010d7789b49d
+themediagrid.com,A6CWLO,RESELLER,35d5010d7789b49d
 themediagrid.com,B8N9YH,RESELLER,35d5010d7789b49d
 themediagrid.com,FH3TKJ,RESELLER,35d5010d7789b49d 
 themediagrid.com,IOY14K,RESELLER,35d5010d7789b49d
@@ -1251,6 +1260,7 @@ triplelift.com,12456,RESELLER,6c33edb13117fd86
 triplelift.com,12908,RESELLER,6c33edb13117fd86
 triplelift.com,13042,RESELLER, 6c33edb13117fd86
 triplelift.com,13043,RESELLER,6c33edb13117fd86
+triplelift.com,13907,RESELLER,6c33edb13117fd86
 triplelift.com,2792,RESELLER,6c33edb13117fd86
 triplelift.com,8844,RESELLER,6c33edb13117fd86
 tritondigital.com,106423,RESELLER,19b4454d0b87b58b
@@ -1311,6 +1321,7 @@ video.unrulymedia.com,6934634821880853826,RESELLER
 video.unrulymedia.com,7823643795310613975,RESELLER
 video.unrulymedia.com,809865099,RESELLER
 video.unrulymedia.com,819070080,RESELLER
+video.unrulymedia.com,827123801,RESELLER
 video.unrulymedia.com,831638248788941126,RESELLER
 video.unrulymedia.com,848837292,RESELLER
 video.unrulymedia.com,905992537,RESELLER,a670c89d4a324e47 
@@ -1360,6 +1371,7 @@ xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 xandr.com,10128,RESELLER,f5ab79cb980f11d1
 xandr.com,12745,RESELLER,f5ab79cb980f11d1
 xandr.com,13238,RESELLER,f5ab79cb980f11d1
+xandr.com,13293,RESELLER,f5ab79cb980f11d1
 xandr.com,13709,RESELLER
 xandr.com,13709,RESELLER,f5ab79cb980f11d1
 xandr.com,13799,RESELLER
@@ -1402,6 +1414,7 @@ yieldmo.com,3591550211052216798,RESELLER,6a92c77cfc3d2258
 yieldnexus.com, 96204, RESELLER
 zeta.com,998,RESELLER
 zetaglobal.net,525,RESELLER
+zetaglobal.net,815,RESELLER
 zetaglobal.net,856,RESELLER
 zmaticoo.com, 5135347, RESELLER
 zmaticoo.com, 5135655, RESELLER

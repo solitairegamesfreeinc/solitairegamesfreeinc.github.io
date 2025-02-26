@@ -236,6 +236,7 @@ appnexus.com,14077,RESELLER,f5ab79cb980f11d1
 appnexus.com,14228,RESELLER
 appnexus.com,14423,RESELLER,f5ab79cb980f11d1
 appnexus.com,14538,RESELLER,f5ab79cb980f11d1
+appnexus.com,15349,RESELLER,f5ab79cb980f11d1
 appnexus.com,15426,RESELLER,f5ab79cb980f11d1
 appnexus.com,15670,RESELLER,f5ab79cb980f11d1
 appnexus.com,15980,RESELLER,f5ab79cb980f11d1
@@ -282,6 +283,7 @@ betweendigital.com,44077,RESELLER
 betweendigital.com,44851,RESELLER
 betweendigital.com,44917,RESELLER
 betweendigital.com,45117,RESELLER
+betweendigital.com,46214,RESELLER
 bidease.com, exchange-20, RESELLER
 bidease.com,bidease_seller_28,RESELLER
 bidence.com,d35302328a4b1f129d376f9c2932b0b7,RESELLER
@@ -596,6 +598,7 @@ lijit.com, 516975, RESELLER, fafdf38b16bf6b2b
 lijit.com,273050,RESELLER,fafdf38b16bf6b2b
 lijit.com,278625-eb,RESELLER,fafdf38b16bf6b2b 
 lijit.com,380632,RESELLER,fafdf38b16bf6b2b
+lijit.com,417620,RESELLER,fafdf38b16bf6b2b
 lijit.com,443291,RESELLER,fafdf38b16bf6b2b
 lijit.com,481366,RESELLER,fafdf38b16bf6b2b
 lijit.com,483304,RESELLER,fafdf38b16bf6b2b
@@ -604,6 +607,8 @@ lijit.com,503707,RESELLER,fafdf38b16bf6b2b
 lijit.com,512908,RESELLER,fafdf38b16bf6b2b
 lijit.com,530498,RESELLER,fafdf38b16bf6b2b
 lijit.com,535224,RESELLER,fafdf38b16bf6b2b
+lijit.com,545922,RESELLER,fafdf38b16bf6b2b
+lijit.com,545924,RESELLER,fafdf38b16bf6b2b
 lkqd.net, 647, RESELLER, 59c49fa9598a0117
 lkqd.net, 654, RESELLER, 59c49fa9598a0117
 lkqd.net,1100053828,RESELLER,59c49fa9598a0117
@@ -662,8 +667,11 @@ media.net,8CU43768M,RESELLER
 media.net,8CU7H33B7,RESELLER
 media.net,8CU8538L0,RESELLER
 media.net,8CU9B72O6,RESELLER
+media.net,8CUAU7HF1,RESELLER
+media.net,8CUI89K0D,RESELLER
 media.net,8CUN37DCC,RESELLER
 media.net,8CUP1N1F2,RESELLER
+media.net,8CUSC3UJ7,RESELLER
 media.net,8CUSD50RH,RESELLER
 media.net,8cu1cp7pm,RESELLER
 mediafuse.com, 316569, RESELLER
@@ -714,10 +722,12 @@ onetag.com,7d9af0b85b5070e,reseller
 onetag.com,82bad7d17eccf7c,RESELLER
 onetag.com,82e44d118b79600,RESELLER
 onetag.com,8668c16092f01e8,RESELLER
+onetag.com,89211985ede1484,RESELLER
 onetag.com,8bd233947b607f0,RESELLER
 onetag.com,8dac5efb6c952da,RESELLER
 onetag.com,8dd1b050e3a7e60,RESELLER
 onetag.com,8dd8de7f341d57e,RESELLER
+onetag.com,925c32ef718e9fe,RESELLER
 openx.com, 537125459, RESELLER, 6a698e2ec38604c6
 openx.com, 537152826, RESELLER, 6a698e2ec38604c6
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
@@ -747,6 +757,7 @@ openx.com, 541177349, RESELLER, 6a698e2ec38604c6
 openx.com, 542281387, RESELLER, 6a698e2ec38604c6
 openx.com, 559792583, RESELLER, 6a698e2ec38604c6
 openx.com, 559798512, RESELLER, 6a698e2ec38604c6
+openx.com,537140488,RESELLER,6a698e2ec38604c6
 openx.com,537149888,RESELLER,6a698e2ec38604c6
 openx.com,537149888,RESELLER,6a698e2ec38604c6 
 openx.com,539214772,RESELLER,6a698e2ec38604c6 
@@ -916,6 +927,7 @@ pubmatic.com,162270,RESELLER,5d62403b186f2ace
 pubmatic.com,162402,RESELLER,5d62403b186f2ace
 pubmatic.com,162449,RESELLER,5d62403b186f2ace
 pubmatic.com,162588,RESELLER,5d62403b186f2ace
+pubmatic.com,162974,RESELLER,5d62403b186f2ace
 pubmatic.com,163420,RESELLER,5d62403b186f2ace
 pubmatic.com,163758,RESELLER,5d62403b186f2ace
 pubmatic.com,163875,RESELLER,5d62403b186f2ace
@@ -923,11 +935,14 @@ pubmatic.com,164016,RESELLER,5d62403b186f2ace
 pubmatic.com,164119,RESELLER,5d62403b186f2ace
 pubmatic.com,164452,RESELLER,5d62403b186f2ace
 pubmatic.com,164562,RESELLER,5d62403b186f2ace
+pubmatic.com,165117,RESELLER,5d62403b186f2ace
 pubmatic.com,165157,RESELLER,5d62403b186f2ace
 pubmatic.com,165207,RESELLER,5d62403b186f2ace
 pubmatic.com,165239,RESELLER,5d62403b186f2ace
 pubmatic.com,165307,RESELLER,5d62403b186f2ace
 pubmatic.com,165340,RESELLER,5d62403b186f2ace
+pubmatic.com,165864,RESELLER,5d62403b186f2ace
+pubmatic.com,165980,RESELLER,5d62403b186f2ace
 pubnative.net, 1006856, RESELLER, d641df8625486a7b
 pubnative.net, 1006955, RESELLER, d641df8625486a7b
 pubnative.net, 1007007, RESELLER, d641df8625486a7b
@@ -1074,6 +1089,7 @@ rubiconproject.com,24960,RESELLER,0bfd66d529a55807
 rubiconproject.com,25100,RESELLER,0bfd66d529a55807
 rubiconproject.com,25322,RESELLER,0bfd66d529a55807
 rubiconproject.com,25336,RESELLER,0bfd66d529a55807
+rubiconproject.com,25386,RESELLER,0bfd66d529a55807
 rubiconproject.com,25748,RESELLER,0bfd66d529a55807
 rubiconproject.com,25966,RESELLER,0bfd66d529a55807
 rubiconproject.com,25978,RESELLER,0bfd66d529a55807
@@ -1280,7 +1296,9 @@ themediagrid.com,A6CWLO,RESELLER,35d5010d7789b49d
 themediagrid.com,B8N9YH,RESELLER,35d5010d7789b49d
 themediagrid.com,FH3TKJ,RESELLER,35d5010d7789b49d 
 themediagrid.com,IOY14K,RESELLER,35d5010d7789b49d
+themediagrid.com,OTJDBI,RESELLER,35d5010d7789b49d
 themediagrid.com,RABCQ1,RESELLER,35d5010d7789b49d
+themediagrid.com,RIX2M5,RESELLER,35d5010d7789b49d
 themediagrid.com,r28i9j,reseller,35d5010d7789b49d
 thunder-monetize.com, 3962740416, RESELLER
 thunder-monetize.com,3962740416,RESELLER

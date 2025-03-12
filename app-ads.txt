@@ -1415,6 +1415,7 @@ visiblemeasures.com,1001,RESELLER
 visiblemeasures.com,1020,RESELLER
 visiblemeasures.com,1078,RESELLER
 vungle.com, 5abab91fd9615c00118516de, DIRECT, c107d686becd2d77
+vungle.com,A9_UAM,RESELLER
 webeyemob.com, 70090, RESELLER
 webeyemob.com, 70097, RESELLER
 webeyemob.com, 70098, DIRECT

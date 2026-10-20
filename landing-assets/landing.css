@@ -102,3 +102,7 @@ h1{font-size:46px}
 
 .links a{min-height:44px;display:inline-flex;align-items:center}
 
+
+/* research-seo-start */
+.links{flex-wrap:wrap;column-gap:20px;row-gap:0}.research-note{padding-top:30px;padding-bottom:30px;color:#48535e;font-size:14px}.game-tagline{font-size:clamp(24px,3vw,34px);line-height:1.2;letter-spacing:-.03em;font-weight:700}.research .fine{max-width:56rem}
+/* research-seo-end */

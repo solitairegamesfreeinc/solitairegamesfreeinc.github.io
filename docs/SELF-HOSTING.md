@@ -21,7 +21,7 @@ The inactive workflow example builds and uploads a review artifact only; it cann
 
 ## Exact preservation and validation
 
-evidence/preserved-files.json freezes legal/contact source and seller bytes plus legacy runtime builds. The original company seller list uses CRLF; preserve exact bytes rather than substituting another publisher list.
+evidence/preserved-files.json freezes the current legal/contact wrappers, seller bytes and legacy runtime builds. The November security pass changed only the legal/support wrappers and removed obsolete theme JavaScript; evidence/legal-content-preserved.json keeps every original content fragment and the prior source digests. The original company seller list uses CRLF; preserve exact bytes rather than substituting another publisher list.
 
 Validate root and project-path builds. Check store destinations, native crawlable content, one main H1, internal links and anchors, metadata/canonicals, sitemap, noindex on preview, seller hashes, protected source legal/runtime files, 320/390px and desktop rendering. A store link is an official destination, not a promise about every region/device, ad policy or platform feature. Upcoming Minesweeper capabilities are labeled Coming soon separately from public iOS2.1. Existing analytics must be verified before being restored; no tracking scope was added.
 

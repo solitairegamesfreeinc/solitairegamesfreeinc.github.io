@@ -6,3 +6,11 @@ privacy-policy.html -text
 privacy-policy-history.html -text
 terms-of-use.html -text
 contact.html -text
+
+package.json text eol=lf
+package-lock.json text eol=lf
+evidence/*.json text eol=lf
+docs/*.md text eol=lf
+
+.gitattributes text eol=lf
+README.md text eol=lf

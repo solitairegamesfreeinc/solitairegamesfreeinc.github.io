@@ -18,7 +18,7 @@ OUT.mkdir()
 allowed=set(CONFIG['publicDirectories'])
 for item in ROOT.iterdir():
  if item.is_dir() and item.name in allowed:shutil.copytree(item,OUT/item.name)
- elif item.is_file() and (item.suffix.lower() in ['.html','.ico','.png','.svg','.webmanifest'] or item.name in ['app-ads.txt','llms.txt']):shutil.copy2(item,OUT/item.name)
+ elif item.is_file() and (item.suffix.lower() in ['.html','.ico','.png','.svg','.webmanifest'] or item.name in ['app-ads.txt','llms.txt']+CONFIG.get('publicFiles',[])):shutil.copy2(item,OUT/item.name)
 canonical=CONFIG['canonical'].rstrip('/')
 for file in OUT.rglob('*.html'):
  rel=file.relative_to(OUT).as_posix();route='/'+(rel[:-10] if rel.endswith('index.html') else rel)

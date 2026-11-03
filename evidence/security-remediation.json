@@ -1,0 +1,58 @@
+{
+  "site": "solitaire",
+  "githubOpenAlertsObserved": 91,
+  "githubCoverage": "Authenticated first-page alert list and total counts,3November2026; no alert dismissal or security setting changes",
+  "originalPackageLockSha256": "116a51f53f53fd3adaa88cd969b12ce3ca1f1913c01d78ab696b516135fd164b",
+  "beforeNpmAudit": {
+    "vulnerabilities": {
+      "info": 0,
+      "low": 4,
+      "moderate": 27,
+      "high": 56,
+      "critical": 19,
+      "total": 106
+    },
+    "dependencies": {
+      "prod": 6,
+      "dev": 755,
+      "optional": 120,
+      "peer": 0,
+      "peerOptional": 0,
+      "total": 760
+    }
+  },
+  "afterNpmAudit": {
+    "vulnerabilities": {
+      "info": 0,
+      "low": 0,
+      "moderate": 0,
+      "high": 0,
+      "critical": 0,
+      "total": 0
+    },
+    "dependencies": {
+      "prod": 1,
+      "dev": 0,
+      "optional": 0,
+      "peer": 0,
+      "peerOptional": 0,
+      "total": 0
+    }
+  },
+  "baselineAuditSharedAcrossThreeIdenticalLockfiles": true,
+  "allThreeModesPassed": true,
+  "originalLegalFragmentsRetained": 4,
+  "protectedSellerSha256": "f9b6a9c3fe29eeafa78b344b95ff24eea64d6698deac76a5c4cff89514408c5a",
+  "scope": "Local-only remedy; remote alerts remain until default-branch update and GitHub rescan. No claim about whole-site security or Unity engine binaries.",
+  "boundedSecretPatternScan": {
+    "findings": [],
+    "coverage": "Tracked UTF-8 files <=2MB; private-key/GitHub-token/AWS-key patterns only. No secret values printed; not a full historical/entropy scan."
+  },
+  "browserLegalQA": {
+    "mobileWidth": 320,
+    "routesChecked": 4,
+    "overflowObserved": false,
+    "brokenImagesObserved": false,
+    "externalScripts": 0
+  }
+}

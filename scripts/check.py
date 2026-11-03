@@ -16,8 +16,8 @@ class Page(HTMLParser):
   if t=='img' and 'alt' not in d:errors.append('Image alt missing')
   if t in ['script','img','link']:
    u=d.get('src',d.get('href',''))
-   if u.startswith('/') and not u.startswith('//') and d.get('rel')!='canonical':self.links.append(u)
-  if t=='source' and d.get('srcset'):
+   if u and d.get('rel')!='canonical':self.links.append(u)
+  if t in ['source','img'] and d.get('srcset'):
    self.links.extend(candidate.strip().split()[0] for candidate in d['srcset'].split(','))
   if t=='script' and d.get('type')=='application/ld+json':self.injson=True
  def handle_endtag(self,t):
@@ -52,6 +52,12 @@ for rel,digest in json.loads((ROOT/'evidence/preserved-files.json').read_text())
 for source,routes in config.get('frozenHtml',{}).items():
  for route in routes:
   if (ROOT/source).read_text() not in (OUT/route.strip('/')/'index.html').read_text():errors.append('Frozen legal fragment changed '+source+' in '+route)
+# Keep exact original legal/support content while allowing wrapper-only security fixes.
+for rel,record in json.loads((ROOT/'evidence/legal-content-preserved.json').read_text()).items():
+ if record['preservedFragment'] not in (ROOT/rel).read_text():errors.append('Original legal content altered '+rel)
+ if record['preservedFragment'] not in (OUT/rel).read_text():errors.append('Original legal output altered '+rel)
+for f in OUT.rglob('*.html'):
+ if re.search(r'<script[^>]+src=[\"\'][^\"\']*(?:vendor/(?:jquery|bootstrap)|new-age)',f.read_text(),re.I):errors.append('Retired theme script still loaded '+str(f.relative_to(OUT)))
 locations=[e.text for e in ET.parse(OUT/'sitemap.xml').findall('.//{*}loc')]
 if set(locations)!={config['canonical']+r for r in config['canonicalRoutes']}:errors.append('Wrong sitemap')
 if build['mode']=='preview' and (OUT/'CNAME').exists():errors.append('Preview must not claim custom domain')

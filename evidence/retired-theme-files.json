@@ -1,0 +1,32 @@
+{
+  "removedUnusedFiles": [
+    "gulpfile.js",
+    "js/new-age.js",
+    "js/new-age.min.js",
+    "vendor/bootstrap/js/bootstrap.bundle.js",
+    "vendor/bootstrap/js/bootstrap.bundle.js.map",
+    "vendor/bootstrap/js/bootstrap.bundle.min.js",
+    "vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+    "vendor/bootstrap/js/bootstrap.js",
+    "vendor/bootstrap/js/bootstrap.js.map",
+    "vendor/bootstrap/js/bootstrap.min.js",
+    "vendor/bootstrap/js/bootstrap.min.js.map",
+    "vendor/jquery-easing/jquery.easing.compatibility.js",
+    "vendor/jquery-easing/jquery.easing.js",
+    "vendor/jquery-easing/jquery.easing.min.js",
+    "vendor/jquery/jquery.js",
+    "vendor/jquery/jquery.min.js",
+    "vendor/jquery/jquery.min.map",
+    "vendor/jquery/jquery.slim.js",
+    "vendor/jquery/jquery.slim.min.js",
+    "vendor/jquery/jquery.slim.min.map"
+  ],
+  "runtimeDependencies": [],
+  "buildDependencies": [],
+  "sourceContentUnchanged": [
+    "contact.html",
+    "privacy-policy.html",
+    "privacy-policy-history.html",
+    "terms-of-use.html"
+  ]
+}

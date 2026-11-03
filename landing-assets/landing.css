@@ -99,6 +99,21 @@ h1{font-size:46px}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}
 *{animation:none!important;transition:none!important}
 }
+.facts{display:grid;grid-template-columns:max-content 1fr;gap:12px 32px;margin:30px 0}
+.facts dt{font-weight:bold}
+.facts dd{margin:0;color:#48535e}
+.article{max-width:760px}
+.article h2{font-size:clamp(28px,3.2vw,38px);margin-top:52px}
+.article p,.article li{color:#48535e}
+.article li{margin-bottom:10px}
+.review{background:white;border:1px solid #e0e2dc;border-radius:16px;padding:26px;margin:0;display:flex;flex-direction:column}
+.review .stars{color:#a86a12;letter-spacing:3px;margin-bottom:12px}
+.review blockquote{margin:0 0 18px}
+.review blockquote p{margin:0}
+.review figcaption{font-size:13px;color:#59646b;margin-top:auto}
+@media(max-width:620px){.facts{grid-template-columns:1fr;gap:2px}
+.facts dd{margin-bottom:14px}
+}
 
 .links a{min-height:44px;display:inline-flex;align-items:center}
 

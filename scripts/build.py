@@ -49,3 +49,7 @@ try:revision=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=Tr
 except Exception:revision='uncommitted'
 (OUT/'.build.json').write_text(json.dumps(dict(mode=MODE,basePath=BASE,revision=revision,canonical=canonical)))
 print(json.dumps(dict(site=CONFIG['name'],output=str(OUT),mode=MODE,basePath=BASE,canonicalPages=len(CONFIG['canonicalRoutes']))))
+
+# Shared family chrome is injected outside all frozen legal/content fragments.
+import runpy as _family_runpy
+_family_runpy.run_path(str(ROOT / "scripts/studio_family/apply.py"))["apply"](OUT, 'solitaire', BASE, exclude=CONFIG.get('visibleGameWrappers',[]))

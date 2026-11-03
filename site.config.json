@@ -51,5 +51,6 @@
     "/privacy-policy/": "privacy-policy.html",
     "/terms-of-use/": "terms-of-use.html",
     "/privacy-policy-history/": "privacy-policy-history.html"
-  }
+  },
+  "visibleGameWrappers": []
 }

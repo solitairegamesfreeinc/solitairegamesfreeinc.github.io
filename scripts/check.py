@@ -60,6 +60,18 @@ for f in OUT.rglob('*.html'):
  if re.search(r'<script[^>]+src=[\"\'][^\"\']*(?:vendor/(?:jquery|bootstrap)|new-age)',f.read_text(),re.I):errors.append('Retired theme script still loaded '+str(f.relative_to(OUT)))
 locations=[e.text for e in ET.parse(OUT/'sitemap.xml').findall('.//{*}loc')]
 if set(locations)!={config['canonical']+r for r in config['canonicalRoutes']}:errors.append('Wrong sitemap')
+
+# Player-facing wrappers must expose their introduction without changing Unity assets.
+for folder in config.get('visibleGameWrappers', []):
+ html=(OUT/folder/'index.html').read_text()
+ if 'id="about-game"' not in html or 'class="game-stage"' not in html:errors.append('Visible browser About panel absent '+folder)
+ if re.search(r'left:\s*-\d{4,}px',html):errors.append('Offscreen browser content '+folder)
+ if 'id="unity-canvas"' not in html:errors.append('Browser canvas absent '+folder)
+for route,canonical in config.get('externalCanonicalAliases',{}).items():
+ html=(OUT/route.strip('/')/'index.html').read_text()
+ if 'rel="canonical" href="'+canonical+'"' not in html:errors.append('Cross-domain alias changed '+route)
+ if config['canonical']+route in locations:errors.append('External canonical alias included in sitemap '+route)
+if (OUT/'article.html').exists() and "'Last Updated: ' + article.updated" in (OUT/'article.html').read_text():errors.append('Fixed relative support age still rendered')
 if build['mode']=='preview' and (OUT/'CNAME').exists():errors.append('Preview must not claim custom domain')
 if (OUT/'app-ads.txt').read_bytes()!=(ROOT/'app-ads.txt').read_bytes():errors.append('Seller bytes changed')
 report=dict(site=config['name'],mode=build['mode'],basePath=base,htmlPages=len(parsed),canonicalPages=len(locations),protectedFiles=len(json.loads((ROOT/'evidence/preserved-files.json').read_text())),errors=errors)

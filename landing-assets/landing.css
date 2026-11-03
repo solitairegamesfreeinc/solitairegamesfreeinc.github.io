@@ -127,3 +127,6 @@ h1{font-size:46px}
 @media(max-width:850px){.conversion-panel{display:block}.conversion-panel .actions{margin-top:24px}}@media(max-width:620px){.hero{grid-template-columns:minmax(0,1fr)}.app-page h1{font-size:clamp(32px,8.5vw,45px)}.feature-table table{font-size:14px}.feature-table th,.feature-table td{padding:14px}.app-dock{gap:10px;padding-inline:16px}.app-dock>span{display:none}.app-dock .button{flex:1;max-width:220px;justify-content:center}.conversion-panel{padding:28px}.conversion-panel h2{font-size:30px}.conversion-panel .actions{align-items:stretch}.upcoming{padding:27px}.upcoming h2{font-size:29px}.guide-download{padding:22px}.download-actions .button{white-space:normal!important}.links{flex-wrap:wrap}}
 
 @media(max-width:620px){nav.app-dock{flex-direction:row;align-items:center}nav.app-dock .store-links{flex-direction:row}}
+
+/* Keep player choices and download actions comfortable at every width. */
+.app-page .actions,.guide-download .actions{flex-wrap:wrap}.app-page .actions .button,.guide-download .actions .button{text-align:center;white-space:normal}.app-page .facts{margin-top:24px}.app-page .details .fine{font-size:13px}.app-page .hero .intro{max-width:42rem}

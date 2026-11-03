@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-11-03T22:05:31.258445+00:00",
+  "method": "Official Google Play pages verified through web tool; matching legal developer and user-confirmed counterpart identity. Availability only; no blanket feature parity.",
+  "legalDeveloper": "Solitaire Games Free Inc",
+  "playDisplayDeveloper": "Solitaire Card Games Inc",
+  "apps": [
+    {
+      "appId": "6756082372",
+      "pcSlug": "solitaire-word-associations",
+      "companySlug": "solitaire-word-associations",
+      "iosName": "Solitaire Word Associations",
+      "androidName": "Solitaire Word: Card Puzzles",
+      "url": "https://play.google.com/store/apps/details?id=com.solitaire.word.games.card"
+    },
+    {
+      "appId": "6759250551",
+      "pcSlug": "solitaire-explorer-tripeaks",
+      "companySlug": "solitaire-explorer",
+      "iosName": "Solitaire Explorer: TriPeaks",
+      "androidName": "Solitaire Explorer: TriPeaks",
+      "url": "https://play.google.com/store/apps/details?id=com.solitaire.journey.tri.peaks.explorer"
+    }
+  ],
+  "preserved": "Existing iOS app IDs, purchase/feature scope, ratings, research/legal/seller/artwork/motion; no deployment."
+}

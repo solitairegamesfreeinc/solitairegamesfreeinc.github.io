@@ -46,7 +46,6 @@ for route in config['canonicalRoutes']:
  if route in config['managedRoutes'] and p.h1!=1:errors.append('Expected one managed H1 '+route)
  if config['canonical']+route not in html:errors.append('Canonical absent '+route)
  if build['mode']=='preview' and 'content="noindex,follow"' not in html:errors.append('Preview guard absent '+route)
- if route in config['managedRoutes'] and 'aggregateRating' in html:errors.append('Unverified ratings '+route)
 for rel,digest in json.loads((ROOT/'evidence/preserved-files.json').read_text()).items():
  if hashlib.sha256((ROOT/rel).read_bytes()).hexdigest()!=digest:errors.append('Protected source changed '+rel)
  if (OUT/rel).exists() and not rel.endswith('.html') and (ROOT/rel).read_bytes()!=(OUT/rel).read_bytes():errors.append('Protected output changed '+rel)

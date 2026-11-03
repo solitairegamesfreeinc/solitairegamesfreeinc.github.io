@@ -1,0 +1,8 @@
+*.html text eol=lf
+*.css text eol=lf
+*.py text eol=lf
+app-ads.txt -text
+privacy-policy.html -text
+privacy-policy-history.html -text
+terms-of-use.html -text
+contact.html -text
